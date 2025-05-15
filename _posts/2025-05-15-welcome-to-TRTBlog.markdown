@@ -20,4 +20,4 @@ Ken Staples.
 
 
 
-[def]: images/introphotologo.png
+[def]: /images/Introphotologo.png
