@@ -4,7 +4,7 @@ title:  "Welcome to TotallyRandomThoughts.com!"
 date:   2025-05-15 11:25:48 +0000
 categories: TRT
 ---
-![](../images/introphotologo.png)
+![][def]
 
 Thanks for Clicking!
 
@@ -18,3 +18,6 @@ With gratitude,
 
 Ken Staples. 
 
+
+
+[def]: images/introphotologo.png
