@@ -16,12 +16,16 @@
 title: Totally Random Thoughts Blog 
 email: totallyrandomthoughtsblog2024@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Totally Random Thoughts is a digital space where curiosity thrives and the extraordinary is everyday. We explore everything from scientific mysteries to the supernatural, unraveling conspiracies, investigating the paranormal, and celebrating the bizarre. Each article sparks a journey into the unknown, inviting readers to question reality and embrace the strange.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "TRTblog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  TRTblog
+
+author: Ken Staples
+
+copyright: "TotallyRandomThoughts.com"
+title-logo: /images/title-logo.png
 
 # Build settings
 markdown: kramdown
