@@ -16,9 +16,13 @@ In 2017, Ken found a new dimension of peace and purpose when he embraced his fai
 
 Ken’s thirst for adventure doesn’t end there; he is an avid explorer of the unknown, delving into the mysteries of ghosts, Sasquatch, aliens, and other paranormal phenomena. Inspired by the legendary explorer Josh Gates, Ken’s explorations fuel the diverse and intriguing content of “Totally Random Thoughts,” making it a hub for those who seek to understand the unexplained.
 
+Check out the [KenStaples.com][kenstaples.com] to learn more about Ken.
+
 <h2>Land Acknowledgement</h2>
 TotallyRandomThought.com acknowledge the traditional lands and territories of the Indigenous peoples who have lived on these lands and taken care of them since time immemorial. 
 
 TotallyRandomThought.com is situated on Treaty 7 territory – the traditional and ancestral territory of Siksikaitsitapi – the Blackfoot Confederacy, which includes the Kainai Nation, Piikani Nation, Amskapi Piikani, and the Siksika Nation. Treaty 7 is also home to the Tsuut’ina Nation, the Stoney Nakoda, and is within the historical Northwest Métis Homeland known as the Battle River Territory.
 
 We acknowledge and give gratitude to the many First Nations, Métis, and Inuit who have lived in and cared for these lands for generations. We acknowledge the Traditional Knowledge Keepers and Elders, both past and present, and are grateful for their contributions that helped keep this land beautiful. We make this acknowledgement as an act of reconciliation.
+
+[kenstaples.com]: https://kenstaples.com

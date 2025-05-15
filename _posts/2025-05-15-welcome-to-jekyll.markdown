@@ -1,25 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2025-05-15 04:47:48 +0000
-categories: jekyll update
+title:  "Welcome to TotallyRandomThoughts.com!"
+date:   2025-05-15 11:25:48 +0000
+categories: TRT
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Thanks for Clicking!
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hey there,
 
-Jekyll also offers powerful support for code snippets:
+Just wanted to say a big thank you for clicking on the very first post at TotallyRandomThoughts.com! Whether you landed here by chance, curiosity, or cosmic alignment, I'm genuinely glad you did.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Hope you found something to make you think, laugh, or at least pause for a second. There's plenty more randomness to come—so stick around!
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+With gratitude,
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Ken Staples. 
