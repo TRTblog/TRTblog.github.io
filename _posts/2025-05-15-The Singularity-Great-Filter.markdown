@@ -5,7 +5,8 @@ date:   2025-05-15 13:30:48 +0000
 categories: Futurism
 author: Ken Staples
 ---
-![][def]{: .post-center}
+
+![][def]{: .featured-image-post}
 
 <p>The vast silence of the cosmos has always whispered a profound question: where is everyone? Enrico Fermi's famous paradox highlights the stark contradiction between the high probability of extraterrestrial life and the complete lack of observed civilizations. The Drake equation, a probabilistic argument used to estimate the number of active, communicative extraterrestrial civilizations in the Milky Way galaxy, often leaves us staring at a significant unknown – the "Great Filter." This hypothetical barrier, somewhere in the timeline of life's development, prevents most, if not all, potential civilizations from reaching a stage where they become detectable.</p>
 

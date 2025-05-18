@@ -5,7 +5,7 @@ date:   2025-05-15 11:25:48 +0000
 categories: TRT
 author: Ken Staples
 ---
-![][def]{: .post-center}
+![][def]{: .featured-image-post}
 
 Thanks for Clicking!
 
@@ -21,4 +21,4 @@ Ken Staples.
 
 
 
-[def]: /images/Introphotologo.png
+[def]: /images/TRTlogolarge.png
