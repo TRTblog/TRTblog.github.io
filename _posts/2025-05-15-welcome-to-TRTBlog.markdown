@@ -5,8 +5,6 @@ date:   2025-05-15 11:25:48 +0000
 categories: TRT
 author: Ken Staples
 ---
-![][def]{: .featured-image-post}
-
 Thanks for Clicking!
 
 Hey there,
@@ -18,7 +16,3 @@ Hope you found something to make you think, laugh, or at least pause for a secon
 With gratitude,
 
 Ken Staples. 
-
-
-
-[def]: /images/TRTlogolarge.png
