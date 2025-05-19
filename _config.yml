@@ -23,6 +23,8 @@ url: "TRTblog.github.io" # the base hostname & protocol for your site, e.g. http
 
 github_username:  TRTblog
 
+excerpt_separator: <!--more-->
+
 author: Ken Staples
 
 copyright: "TotallyRandomThoughts.com"
