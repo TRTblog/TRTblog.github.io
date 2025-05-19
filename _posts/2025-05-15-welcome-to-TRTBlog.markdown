@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to TotallyRandomThoughts.com!"
 date:   2025-05-15 11:25:48 +0000
 categories: TRT
-author: Ken Staples
+author: TRTBlogger
 ---
 Thanks for Clicking!
 
