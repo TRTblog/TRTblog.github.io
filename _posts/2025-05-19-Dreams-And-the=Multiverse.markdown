@@ -6,7 +6,7 @@ categories: blog
 author: TRTBlogger
 image: /images/Dreamverse.png
 ---
-<h4>Are Dreams Gateways to the Multiverse? A Deep Dive into Science, Psychology, and Philosophy<!--more--></h4>
+<h4>Are Dreams Gateways to the Multiverse?<!--more--> A Deep Dive into Science, Psychology, and Philosophy</h4>
 
 Dreams as Portals to the Multiverse: An Interdisciplinary Analysis
 1. Introduction: The Intriguing Notion of Dreams as Multiverse Portals

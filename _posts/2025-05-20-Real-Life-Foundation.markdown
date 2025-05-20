@@ -6,7 +6,7 @@ categories: blog
 author: TRTBlogger
 image: /images/foundation.png
 ---
-<h2>Lunar Knowledge Repository: An Analysis of Necessity, Feasibility, and Implications in a Volatile World<!--more--></h2>
+<h2>Lunar Knowledge Repository<!--more-->: An Analysis of Necessity, Feasibility, and Implications in a Volatile World</h2>
 
 The current geopolitical climate, marked by widespread unrest and violence, coupled with the inherent vulnerabilities of Earth-bound archives to natural disasters and technological obsolescence, compels a critical re-evaluation of humanity's long-term knowledge preservation strategies. Inspired by Isaac Asimov's "Foundation" series, the concept of a lunar knowledge repository emerges not merely as a speculative backup but as a strategic imperative for civilizational resilience.
 
