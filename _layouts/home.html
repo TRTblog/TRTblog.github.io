@@ -1,19 +1,6 @@
 ---
 layout: default
 ---
-
-
-<h2 style="text-align: center">Welcome to TotallyRandomThoughts.com!!!!</h2>
-<div>
-<img src="/images/Introphotologo.png" style="float: left; width: 500px; height: 500px; margin: 10px;">
-
-<p style="text-indent: 25px;">The digital alcove where curiosity reigns and the extraordinary is the norm. Here, we traverse the corridors of time, weaving through the past, dancing in the present, and peeking into the future. Our articles are the threads that bind the tapestry of the extraordinary—from the enigmas of science to the whispers of the supernatural.</p>
-
-<p style="text-indent: 25px;">In this haven, we don't just read about conspiracies; we unravel them. We don't just hear about paranormal events; we investigate them. And the bizarre? We don't shy away; we celebrate it. Each piece is a voyage that commences with a solitary, seemingly random thought, beckoning you to embark on an odyssey where reality and the arcane converge.</p>
-
-<p style="text-indent: 25px;">So, if your spirit yearns for adventure at the fringes of reality, if your mind thirsts for knowledge that defies the ordinary, **Totally Random Thoughts** is your guide through the labyrinth of the unknown. Unleash your imagination and let it soar into the realms of possibility and beyond. Here, every question is a map, and every answer is a new destination. Join us, and let's explore the compass of the curious together.</p>
-</div>
-
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
@@ -21,35 +8,26 @@ layout: default
 
   {{ content }}
 
-  
-
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- if post.image -%}
-      <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image">
-    {%- else -%}
-      {%- assign postImage ="/images/TRTlogolarge.png" -%}
-      <img src="{{- postImage | relative_url -}}" alt="" class="blog-roll-image">
-    {%- endif -%}
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
+  <div class="main-page-feed">
+    <div>{%- assign feedType = page.feed-type -%}
+      {%- assign displayOffset = 0 -%}
+      {%- assign displayLimit = 1 -%}
+      {%- assign sectionName = "featured-post" -%}
+      {% include feed.html %}
+    </div>
+    <div>
+      <!-- <h2 style="text-align: center;  margin-top: 10px;">Latest Posts</h2> -->
+      {%- assign feedType = page.feed-type -%}
+      {%- assign displayOffset = 1 -%}
+      {%- assign displayLimit = 4 -%}
+      {%- assign sectionName = "feed" -%}
+      {% include feed.html %}
+    </div>
+    <div style="margin: 10px;">
+        <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> 
+    </div>
+  </div>
+    
 
 </div>
  

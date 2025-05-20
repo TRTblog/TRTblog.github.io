@@ -6,7 +6,11 @@ permalink: /about/
 
 
 ![][def1]{: .featured-image-post}
-"Totally Random Thoughts" is a blog by Ken Staples that serves as a gateway to the extraordinary, where the mundane meets the mysterious. It's a place where the past, present, and future intertwine through a tapestry of articles ranging from scientific marvels to the supernatural. Here, conspiracies are unraveled, paranormal events are investigated, and the bizarre is celebrated. Every article is a journey that begins with a single, seemingly random thought, inviting readers to step into a world where the lines between reality and the unknown blur. So, if you're eager to explore the edges of possibility and beyond, "Totally Random Thoughts" is your compass to the curious.
+TotallyRandomThoughts.com is the digital alcove where curiosity reigns and the extraordinary is the norm. Here, we traverse the corridors of time, weaving through the past, dancing in the present, and peeking into the future. Our articles are the threads that bind the tapestry of the extraordinary—from the enigmas of science to the whispers of the supernatural.
+
+In this haven, we don't just read about conspiracies; we unravel them. We don't just hear about paranormal events; we investigate them. And the bizarre? We don't shy away; we celebrate it. Each piece is a voyage that commences with a solitary, seemingly random thought, beckoning you to embark on an odyssey where reality and the arcane converge.
+
+So, if your spirit yearns for adventure at the fringes of reality, if your mind thirsts for knowledge that defies the ordinary, **Totally Random Thoughts** is your guide through the labyrinth of the unknown. Unleash your imagination and let it soar into the realms of possibility and beyond. Here, every question is a map, and every answer is a new destination. Join us, and let's explore the compass of the curious together.
 
 <h2>Who is Ken Staples?</h2>
 ![][def2]{: .featured-image-post}
